@@ -1,3 +1,3 @@
 # proj-hash
 
-`dune `
+`dune exec password_finder.exe -- passwords.txt`
